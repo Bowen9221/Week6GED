@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/experimental:deterministic
+/DEF
+/NAME:"UnrealEditor-EZSwapLanguages-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/bowen/Documents/Unreal Projects/MyDLLDemo/Intermediate/Build/Win64/x64/MyDLLDemoEditor/DebugGame/UnrealEd/SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:/Users/bowen/Documents/Unreal Projects/MyDLLDemo/Plugins/EZSwapLanguages/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/EZSwapLanguages/Module.EZSwapLanguages.cpp.obj"
+"C:/Users/bowen/Documents/Unreal Projects/MyDLLDemo/Plugins/EZSwapLanguages/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/EZSwapLanguages/EZSwapLanguages.cpp.obj"
+"C:/Users/bowen/Documents/Unreal Projects/MyDLLDemo/Plugins/EZSwapLanguages/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/EZSwapLanguages/EZSwapLanguagesBPLibrary.cpp.obj"
+/OUT:"C:/Users/bowen/Documents/Unreal Projects/MyDLLDemo/Plugins/EZSwapLanguages/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/EZSwapLanguages/UnrealEditor-EZSwapLanguages-Win64-DebugGame.lib"

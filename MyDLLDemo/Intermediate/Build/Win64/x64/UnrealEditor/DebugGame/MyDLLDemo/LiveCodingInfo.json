@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MyDLLDemo.gen.cpp.obj": [
+			"MyDLLDemo.init.gen.cpp.obj",
+			"MyModLibrary.gen.cpp.obj",
+			"TestLib.gen.cpp.obj"
+		]
+	}
+}

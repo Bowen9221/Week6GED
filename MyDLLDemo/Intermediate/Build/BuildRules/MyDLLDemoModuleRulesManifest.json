@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\bowen\\Documents\\Unreal Projects\\MyDLLDemo\\Source\\MyDLLDemo\\MyDLLDemo.Build.cs",
+		"C:\\Users\\bowen\\Documents\\Unreal Projects\\MyDLLDemo\\Plugins\\EZSwapLanguages\\Source\\EZSwapLanguages\\EZSwapLanguages.Build.cs",
+		"C:\\Users\\bowen\\Documents\\Unreal Projects\\MyDLLDemo\\Source\\MyDLLDemo.Target.cs",
+		"C:\\Users\\bowen\\Documents\\Unreal Projects\\MyDLLDemo\\Source\\MyDLLDemoEditor.Target.cs"
+	],
+	"EngineVersion": "5.8.3"
+}

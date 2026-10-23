@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EZSwapLanguages.cpp.obj": [
+			"EZSwapLanguages.init.gen.cpp.obj",
+			"EZSwapLanguagesBPLibrary.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"EZSwapLanguages.cpp.obj",
+			"EZSwapLanguagesBPLibrary.cpp.obj"
+		]
+	}
+}

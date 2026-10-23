@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\bowen\\documents\\unreal projects\\mydlldemo\\plugins\\ezswaplanguages\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\ezswaplanguages\\module.ezswaplanguages.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\bowen\\documents\\unreal projects\\mydlldemo\\intermediate\\build\\win64\\x64\\mydlldemoeditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonopt.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\bowen\\documents\\unreal projects\\mydlldemo\\plugins\\ezswaplanguages\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\ezswaplanguages\\definitions.ezswaplanguages.h",
+            "c:\\users\\bowen\\documents\\unreal projects\\mydlldemo\\plugins\\ezswaplanguages\\intermediate\\build\\win64\\unrealeditor\\inc\\ezswaplanguages\\uht\\ezswaplanguages.init.gen.cpp",
+            "c:\\users\\bowen\\documents\\unreal projects\\mydlldemo\\plugins\\ezswaplanguages\\intermediate\\build\\win64\\unrealeditor\\inc\\ezswaplanguages\\uht\\ezswaplanguagesbplibrary.gen.cpp",
+            "c:\\users\\bowen\\documents\\unreal projects\\mydlldemo\\plugins\\ezswaplanguages\\source\\ezswaplanguages\\public\\ezswaplanguagesbplibrary.h",
+            "c:\\users\\bowen\\documents\\unreal projects\\mydlldemo\\plugins\\ezswaplanguages\\intermediate\\build\\win64\\unrealeditor\\inc\\ezswaplanguages\\uht\\ezswaplanguagesbplibrary.generated.h",
+            "c:\\users\\bowen\\documents\\unreal projects\\mydlldemo\\plugins\\ezswaplanguages\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\ezswaplanguages\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

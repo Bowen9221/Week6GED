@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/experimental:deterministic
+/DEF
+/NAME:"UnrealEditor-MyDLLDemo-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/bowen/Documents/Unreal Projects/MyDLLDemo/Intermediate/Build/Win64/x64/MyDLLDemoEditor/DebugGame/UnrealEd/SharedPCH.UnrealEd.Project.NonOpt.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/bowen/Documents/Unreal Projects/MyDLLDemo/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/MyDLLDemo/MyDLLDemo.cpp.obj"
+"C:/Users/bowen/Documents/Unreal Projects/MyDLLDemo/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/MyDLLDemo/PerModuleInline.gen.cpp.obj"
+/OUT:"C:/Users/bowen/Documents/Unreal Projects/MyDLLDemo/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/MyDLLDemo/UnrealEditor-MyDLLDemo-Win64-DebugGame.lib"

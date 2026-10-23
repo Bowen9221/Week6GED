@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\bowen\\documents\\unreal projects\\mydlldemo\\plugins\\ezswaplanguages\\source\\ezswaplanguages\\private\\ezswaplanguages.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\bowen\\documents\\unreal projects\\mydlldemo\\intermediate\\build\\win64\\x64\\mydlldemoeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\bowen\\documents\\unreal projects\\mydlldemo\\plugins\\ezswaplanguages\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ezswaplanguages\\definitions.ezswaplanguages.h",
+            "c:\\users\\bowen\\documents\\unreal projects\\mydlldemo\\plugins\\ezswaplanguages\\source\\ezswaplanguages\\public\\ezswaplanguages.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

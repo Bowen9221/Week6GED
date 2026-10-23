@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\Automation_MyDLLDemo.slnx" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\MyDLLDemo.slnx" />
+    <None Include="..\..\MyDLLDemo.uproject" />
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\EZSwapLanguages">
+      <UniqueIdentifier>{8733FBA7-CB84-3D2C-BCED-40DDBD96FD56}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\EZSwapLanguages\EZSwapLanguages.uplugin">
+      <Filter>Plugins\EZSwapLanguages</Filter>
+    </None>
+    <Filter Include="Plugins\EZSwapLanguages\Resources">
+      <UniqueIdentifier>{8D370B1C-252F-313B-8BC4-5A62829C9BF0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\EZSwapLanguages\Resources\Icon128.png">
+      <Filter>Plugins\EZSwapLanguages\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\EZSwapLanguages\Source">
+      <UniqueIdentifier>{D9CC4A35-868C-3CCD-BB26-C16313403608}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\EZSwapLanguages\Source\EZSwapLanguages">
+      <UniqueIdentifier>{F71FD98C-BF1C-3D3D-8532-987657E62B44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\EZSwapLanguages\Source\EZSwapLanguages\Binaries">
+      <UniqueIdentifier>{2DABF70D-3124-354F-AFA1-E3A9642EA9D3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\EZSwapLanguages\Source\EZSwapLanguages\Binaries\Win64">
+      <UniqueIdentifier>{6559A6BC-26AD-342C-8AD0-60CD7D36EB47}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\EZSwapLanguages\Source\EZSwapLanguages\Binaries\Win64\MyMod.dll">
+      <Filter>Plugins\EZSwapLanguages\Source\EZSwapLanguages\Binaries\Win64</Filter>
+    </None>
+    <None Include="..\..\Plugins\EZSwapLanguages\Source\EZSwapLanguages\EZSwapLanguages.Build.cs">
+      <Filter>Plugins\EZSwapLanguages\Source\EZSwapLanguages</Filter>
+    </None>
+    <Filter Include="Plugins\EZSwapLanguages\Source\EZSwapLanguages\Private">
+      <UniqueIdentifier>{CD962B79-81CC-34DC-8FA4-C13E32E3B5CA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\EZSwapLanguages\Source\EZSwapLanguages\Private\EZSwapLanguages.cpp">
+      <Filter>Plugins\EZSwapLanguages\Source\EZSwapLanguages\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\EZSwapLanguages\Source\EZSwapLanguages\Private\EZSwapLanguagesBPLibrary.cpp">
+      <Filter>Plugins\EZSwapLanguages\Source\EZSwapLanguages\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\EZSwapLanguages\Source\EZSwapLanguages\Public">
+      <UniqueIdentifier>{11EA26ED-1051-327F-BDAF-C4CD6F659E9D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\EZSwapLanguages\Source\EZSwapLanguages\Public\EZSwapLanguages.h">
+      <Filter>Plugins\EZSwapLanguages\Source\EZSwapLanguages\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\EZSwapLanguages\Source\EZSwapLanguages\Public\EZSwapLanguagesBPLibrary.h">
+      <Filter>Plugins\EZSwapLanguages\Source\EZSwapLanguages\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyDLLDemo.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MyDLLDemoEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\MyDLLDemo">
+      <UniqueIdentifier>{98A1BA31-F207-376E-A4FD-5A7BF569414B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyDLLDemo\MyDLLDemo.Build.cs">
+      <Filter>Source\MyDLLDemo</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MyDLLDemo\MyDLLDemo.cpp">
+      <Filter>Source\MyDLLDemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyDLLDemo\MyDLLDemo.h">
+      <Filter>Source\MyDLLDemo</Filter>
+    </ClInclude>
+    <Filter Include="Source\MyDLLDemo\Private">
+      <UniqueIdentifier>{16D3DAFB-5B72-3638-B5C9-8E0210D020BD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MyDLLDemo\Private\MyModLibrary.cpp">
+      <Filter>Source\MyDLLDemo\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyDLLDemo\Private\TestLib.cpp">
+      <Filter>Source\MyDLLDemo\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\MyDLLDemo\Public">
+      <UniqueIdentifier>{BBB0DEAA-70B4-3BD8-BE50-72E7C986369F}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\MyDLLDemo\Public\MyModLibrary.h">
+      <Filter>Source\MyDLLDemo\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyDLLDemo\Public\TestLib.h">
+      <Filter>Source\MyDLLDemo\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

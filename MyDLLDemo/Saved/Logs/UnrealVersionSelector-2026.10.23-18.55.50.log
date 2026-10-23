@@ -1,0 +1,103 @@
+Log started at 10/23/2026 18:55:50 (2026-10-23T22:55:50Z)
+Resolved project argument C:/Users/bowen/Documents/Unreal Projects/MyDLLDemo/MyDLLDemo.uproject to C:\Users\bowen\Documents\Unreal Projects\MyDLLDemo\MyDLLDemo.uproject
+No config file at C:\ProgramData\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+No config file at C:\Users\bowen\AppData\Local\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+No config file at C:\Users\bowen\Documents\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Configuration will be read from:
+  C:\Users\bowen\AppData\Roaming\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Reading configuration file from cache (C:\Users\bowen\Documents\Unreal Projects\MyDLLDemo\Intermediate\Build\XmlConfigCache.bin): C:\Users\bowen\AppData\Roaming\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Reading configuration file from cache (C:\Users\bowen\Documents\Unreal Projects\MyDLLDemo\Intermediate\Build\XmlConfigCache.bin): C:\Users\bowen\Documents\Unreal Projects\MyDLLDemo\Saved\UnrealBuildTool\BuildConfiguration.xml
+Reading configuration file from cache (C:\Users\bowen\Documents\Unreal Projects\MyDLLDemo\Intermediate\Build\XmlConfigCache.bin): C:\Users\bowen\AppData\Local\UnrealEngine\Intermediate\Build\UnrealBuildTool.Env.BuildConfiguration.xml
+Log file: C:\Users\bowen\Documents\Unreal Projects\MyDLLDemo\Saved\Logs\UnrealVersionSelector-2026.10.23-18.55.50.log
+
+Setting temp directory to 'C:\Users\bowen\AppData\Local\Temp\UnrealBuildTool\eb6d2d82'
+    Registering build platform: UnrealBuildTool.AndroidPlatformFactory
+    Registering build platform: UnrealBuildTool.IOSPlatformFactory
+    Registering build platform: UnrealBuildTool.LinuxPlatformFactory
+    Registering build platform: UnrealBuildTool.MacPlatformFactory
+    Registering build platform: UnrealBuildTool.TVOSPlatformFactory
+    Registering build platform: UnrealBuildTool.WindowsPlatformFactory
+Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (1)
+Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (2)
+Found Windows 10 SDK version 10.0.22621.0 at C:\Program Files (x86)\Windows Kits\10
+Found Universal CRT version 10.0.22621.0 at C:\Program Files (x86)\Windows Kits\10
+Found Windows 10 SDK version 10.0.26100.0 at C:\Program Files (x86)\Windows Kits\10
+Found Universal CRT version 10.0.26100.0 at C:\Program Files (x86)\Windows Kits\10
+Win64 Installed SDK(s): MinVersion_Sdk=10.0.19041.0, MaxVersion_Sdk=10.9.99999.0, CurrentVersion_Sdk=10.0.22621.0, Version_AutoSdk=10.0.22621.0, CurrentVersion_AutoSdk=
+        Registering build platform: Win64 - buildable: True
+    Registering build platform: UnrealBuildTool.VisionOSPlatformFactory
+Resolved project argument C:/Users/bowen/Documents/Unreal Projects/MyDLLDemo/MyDLLDemo.uproject to C:\Users\bowen\Documents\Unreal Projects\MyDLLDemo\MyDLLDemo.uproject
+Reading configuration file from cache (C:\Users\bowen\Documents\Unreal Projects\MyDLLDemo\Intermediate\Build\XmlConfigCache.bin): C:\Users\bowen\AppData\Roaming\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Reading configuration file from cache (C:\Users\bowen\Documents\Unreal Projects\MyDLLDemo\Intermediate\Build\XmlConfigCache.bin): C:\Users\bowen\Documents\Unreal Projects\MyDLLDemo\Saved\UnrealBuildTool\BuildConfiguration.xml
+Reading configuration file from cache (C:\Users\bowen\Documents\Unreal Projects\MyDLLDemo\Intermediate\Build\XmlConfigCache.bin): C:\Users\bowen\AppData\Local\UnrealEngine\Intermediate\Build\UnrealBuildTool.Env.BuildConfiguration.xml
+Registering project generator UnrealBuildTool.AndroidProjectGenerator for Android
+Skipping project file generator registration for Android due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.IOSProjectGenerator for IOS
+Skipping project file generator registration for IOS due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.LinuxProjectGenerator for Linux
+Skipping project file generator registration for Linux due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.LinuxProjectGenerator for LinuxArm64
+Skipping project file generator registration for LinuxArm64 due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.MacProjectGenerator for Mac
+Skipping project file generator registration for Mac due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.TVOSProjectGenerator for TVOS
+Skipping project file generator registration for TVOS due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.WindowsProjectGenerator for Win64
+Registering project generator UnrealBuildTool.VisionOSProjectGenerator for VisionOS
+Skipping project file generator registration for VisionOS due to no valid BuildPlatform.
+
+---   SDK INFO START   ---
+---   SDK INFO END   ---
+
+
+Generating VisualStudio project files:
+Discovering modules, targets and source code for project...
+Found VisualStudio2022 installation: C:\Program Files\Microsoft Visual Studio\2022\Community (Product=Microsoft.VisualStudio.Product.Community, Version=17.14.36811.4)
+Found VisualStudio2026 installation: C:\Program Files\Microsoft Visual Studio\18\Community (Product=Microsoft.VisualStudio.Product.Community, Version=18.10.12224.181)
+Found Visual Studio toolchain: C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717 (Family=14.50.35717, FamilyRank=0, Version=14.50.35739, HostArchitecture=x64, ReleaseChannel=Latest, Architecture=x64, Error=False, Redist=C:\Program Files\Microsoft Visual Studio\18\Community\VC\Redist\MSVC\14.51.36231)
+Found Visual Studio toolchain: C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231 (Family=14.51.36231, FamilyRank=2, Version=14.51.36260, HostArchitecture=x64, ReleaseChannel=Latest, Architecture=x64, Error=False, Redist=C:\Program Files\Microsoft Visual Studio\18\Community\VC\Redist\MSVC\14.51.36231)
+Found Visual Studio toolchain: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207 (Family=14.44.35207, FamilyRank=1, Version=14.44.35222, HostArchitecture=x64, ReleaseChannel=Latest, Architecture=x64, Error=False, Redist=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Redist\MSVC\14.44.35112)
+Detected supported platforms: Win64
+Writing 'C:\Users\bowen\Documents\Unreal Projects\MyDLLDemo\Automation_MyDLLDemo.sln'...
+Writing 'C:\Users\bowen\Documents\Unreal Projects\MyDLLDemo\Automation_MyDLLDemo.slnx'...
+Writing automation project files took 0.16s
+Adding projects for all targets...
+Skipping C:\Program Files\Epic Games\UE_5.8\Engine\Intermediate\Build\BuildRules\UE5Rules.dll: File is installed
+Skipping C:\Program Files\Epic Games\UE_5.8\Engine\Intermediate\Build\BuildRules\UE5ProgramRules.dll: File is installed
+Compiling C:\Users\bowen\Documents\Unreal Projects\MyDLLDemo\Intermediate\Build\BuildRules\MyDLLDemoModuleRules.dll: Assembly does not exist
+Adding projects for all targets took 5.53s
+Unhandled 1 aggregate exceptions
+Unhandled exception: FileLoadException: Could not load file or assembly 'C:\Users\bowen\Documents\Unreal Projects\MyDLLDemo\Intermediate\Build\BuildRules\MyDLLDemoModuleRules.dll'. An Application Control policy has blocked this file. (0x800711C7)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at UnrealBuildTool.DynamicCompilation.CompileAssemblyAsync(FileReference OutputAssemblyPath, IEnumerable`1 SourceFileNames, ILogger Logger, IEnumerable`1 ReferencedAssembies, IEnumerable`1 PreprocessorDefines, Boolean TreatWarningsAsErrors)
+   at UnrealBuildTool.DynamicCompilation.CompileAndLoadAssemblyAsync(FileReference OutputAssemblyPath, IEnumerable`1 SourceFileNames, ILogger Logger, IEnumerable`1 ReferencedAssembies, IEnumerable`1 PreprocessorDefines, Boolean DoNotCompile, Boolean ForceCompile, Boolean TreatWarningsAsErrors)
+WriteFileIfChanged() wrote 0 changed files of 2 requested writes.
+
+Timeline:
+[  0.000]  +0.291 Main
+   0.034          [  0.033]  +0.063 Apply XmlConfig
+   0.106          [  0.106]  +0.067 AddTelemetry
+   0.190          [  0.190]  +0.101 RegisterPlatforms
+[  0.377]  +7.162 Generating VisualStudio project files
+   0.507          [  0.129]  +1.320 Adding Automation Projects
+   0.558             0.181          [  0.051]  +0.521 Apple.Automation.csproj
+   1.080             0.702          [  0.573]  +0.107 SteamDeck.Automation.csproj
+   1.197             0.819          [  0.690]  +0.144 UnrealBuildTool.csproj
+   1.360             0.983          [  0.853]  +0.103 EpicGames.LogMatchers.Tests.csproj
+   1.477             1.099          [  0.970]  +0.149 EpicGames.Serialization.csproj
+   1.637             1.259          [  1.130]  +0.091 EpicGames.Serialization.Tests.csproj
+   1.729             1.351          [  1.222]  +0.094 EpicGames.Perforce.Fixture.csproj
+   1.827          [  1.449]  +0.164 Writing automation project files
+   1.993          [  1.615]  +0.010 DiscoverTargets
+   2.013          [  1.635]  +5.526 Adding projects for all targets
+   2.021             1.643          [  0.007]  +0.030 EngineRulesPlugins
+   2.054             1.676          [  0.040]  +0.002 EngineRulesFetchDirs
+   2.063             1.685          [  0.049]  +0.007 EngineRulesAssembly
+   2.071             1.693          [  0.057]  +0.001 ProgramRulesAssembly
+   2.074             1.696          [  0.061]  +0.241 ChaosTestHarness
+   2.316             1.938          [  0.303]  +5.223 <unknown>
+[  7.567]  +0.009 TelemetryService.FlushEvents
+[  7.579]
+
+Result: Failed (OtherCompilationError)
+Total execution time: 7.58 seconds

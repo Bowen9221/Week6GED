@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\bowen\\documents\\unreal projects\\mydlldemo\\plugins\\ezswaplanguages\\source\\ezswaplanguages\\private\\ezswaplanguagesbplibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\bowen\\documents\\unreal projects\\mydlldemo\\intermediate\\build\\win64\\x64\\mydlldemoeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\bowen\\documents\\unreal projects\\mydlldemo\\plugins\\ezswaplanguages\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ezswaplanguages\\definitions.ezswaplanguages.h",
+            "c:\\users\\bowen\\documents\\unreal projects\\mydlldemo\\plugins\\ezswaplanguages\\source\\ezswaplanguages\\public\\ezswaplanguagesbplibrary.h",
+            "c:\\users\\bowen\\documents\\unreal projects\\mydlldemo\\plugins\\ezswaplanguages\\intermediate\\build\\win64\\unrealeditor\\inc\\ezswaplanguages\\uht\\ezswaplanguagesbplibrary.generated.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.50.35717\\include\\string",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.50.35717\\include\\xstring",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.50.35717\\include\\__msvc_sanitizer_annotate_container.hpp",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.50.35717\\include\\__msvc_string_view.hpp",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.50.35717\\include\\xpolymorphic_allocator.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.50.35717\\include\\cctype"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
